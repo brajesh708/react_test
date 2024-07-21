@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "name": "brajesh",
+      "rollno": 123,
+      "city": "sehore",
+      "fess": 45000,
+      "id": "7010"
+    },
+    {
+      "id": "c534",
+      "rollno": "1212",
+      "name": "raj",
+      "city": "bhopal",
+      "fees": "900000"
+    }
+  ]
+}
